@@ -1,0 +1,20 @@
+C:\Users\YAS\source\repos\PersonData\PersonData\bin\Debug\PersonData.exe.config
+C:\Users\YAS\source\repos\PersonData\PersonData\bin\Debug\PersonData.exe
+C:\Users\YAS\source\repos\PersonData\PersonData\bin\Debug\PersonData.pdb
+C:\Users\YAS\source\repos\PersonData\PersonData\obj\Debug\PersonData.csprojAssemblyReference.cache
+C:\Users\YAS\source\repos\PersonData\PersonData\obj\Debug\PersonData.Properties.Resources.resources
+C:\Users\YAS\source\repos\PersonData\PersonData\obj\Debug\PersonData.csproj.GenerateResource.cache
+C:\Users\YAS\source\repos\PersonData\PersonData\obj\Debug\PersonData.csproj.CoreCompileInputs.cache
+C:\Users\YAS\source\repos\PersonData\PersonData\obj\Debug\PersonData.exe
+C:\Users\YAS\source\repos\PersonData\PersonData\obj\Debug\PersonData.pdb
+C:\Users\YAS\source\repos\PersonData\PersonData\obj\Debug\PersonData.PersonData.resources
+F:\progicte 2017\PersonData\PersonData\bin\Debug\PersonData.exe.config
+F:\progicte 2017\PersonData\PersonData\bin\Debug\PersonData.exe
+F:\progicte 2017\PersonData\PersonData\bin\Debug\PersonData.pdb
+F:\progicte 2017\PersonData\PersonData\obj\Debug\PersonData.csprojAssemblyReference.cache
+F:\progicte 2017\PersonData\PersonData\obj\Debug\PersonData.PersonData.resources
+F:\progicte 2017\PersonData\PersonData\obj\Debug\PersonData.Properties.Resources.resources
+F:\progicte 2017\PersonData\PersonData\obj\Debug\PersonData.csproj.GenerateResource.cache
+F:\progicte 2017\PersonData\PersonData\obj\Debug\PersonData.csproj.CoreCompileInputs.cache
+F:\progicte 2017\PersonData\PersonData\obj\Debug\PersonData.exe
+F:\progicte 2017\PersonData\PersonData\obj\Debug\PersonData.pdb

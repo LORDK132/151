@@ -1,0 +1,10 @@
+F:\progicte 2017\TestCombo\TestCombo\bin\Debug\TestCombo.exe.config
+F:\progicte 2017\TestCombo\TestCombo\bin\Debug\TestCombo.exe
+F:\progicte 2017\TestCombo\TestCombo\bin\Debug\TestCombo.pdb
+F:\progicte 2017\TestCombo\TestCombo\obj\Debug\TestCombo.Form1.resources
+F:\progicte 2017\TestCombo\TestCombo\obj\Debug\TestCombo.Properties.Resources.resources
+F:\progicte 2017\TestCombo\TestCombo\obj\Debug\TestCombo.csproj.GenerateResource.cache
+F:\progicte 2017\TestCombo\TestCombo\obj\Debug\TestCombo.csproj.CoreCompileInputs.cache
+F:\progicte 2017\TestCombo\TestCombo\obj\Debug\TestCombo.exe
+F:\progicte 2017\TestCombo\TestCombo\obj\Debug\TestCombo.pdb
+F:\progicte 2017\TestCombo\TestCombo\obj\Debug\TestCombo.csprojAssemblyReference.cache

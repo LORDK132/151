@@ -1,0 +1,10 @@
+F:\progicte 2017\Testimeges\Testimeges\bin\Debug\Testimeges.exe.config
+F:\progicte 2017\Testimeges\Testimeges\bin\Debug\Testimeges.exe
+F:\progicte 2017\Testimeges\Testimeges\bin\Debug\Testimeges.pdb
+F:\progicte 2017\Testimeges\Testimeges\obj\Debug\Testimeges.csprojAssemblyReference.cache
+F:\progicte 2017\Testimeges\Testimeges\obj\Debug\Testimeges.Form1.resources
+F:\progicte 2017\Testimeges\Testimeges\obj\Debug\Testimeges.Properties.Resources.resources
+F:\progicte 2017\Testimeges\Testimeges\obj\Debug\Testimeges.csproj.GenerateResource.cache
+F:\progicte 2017\Testimeges\Testimeges\obj\Debug\Testimeges.csproj.CoreCompileInputs.cache
+F:\progicte 2017\Testimeges\Testimeges\obj\Debug\Testimeges.exe
+F:\progicte 2017\Testimeges\Testimeges\obj\Debug\Testimeges.pdb

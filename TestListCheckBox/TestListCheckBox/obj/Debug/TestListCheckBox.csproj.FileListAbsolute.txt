@@ -1,0 +1,10 @@
+F:\progicte 2017\TestListCheckBox\TestListCheckBox\bin\Debug\TestListCheckBox.exe.config
+F:\progicte 2017\TestListCheckBox\TestListCheckBox\bin\Debug\TestListCheckBox.exe
+F:\progicte 2017\TestListCheckBox\TestListCheckBox\bin\Debug\TestListCheckBox.pdb
+F:\progicte 2017\TestListCheckBox\TestListCheckBox\obj\Debug\TestListCheckBox.csprojAssemblyReference.cache
+F:\progicte 2017\TestListCheckBox\TestListCheckBox\obj\Debug\TestListCheckBox.Form1.resources
+F:\progicte 2017\TestListCheckBox\TestListCheckBox\obj\Debug\TestListCheckBox.Properties.Resources.resources
+F:\progicte 2017\TestListCheckBox\TestListCheckBox\obj\Debug\TestListCheckBox.csproj.GenerateResource.cache
+F:\progicte 2017\TestListCheckBox\TestListCheckBox\obj\Debug\TestListCheckBox.csproj.CoreCompileInputs.cache
+F:\progicte 2017\TestListCheckBox\TestListCheckBox\obj\Debug\TestListCheckBox.exe
+F:\progicte 2017\TestListCheckBox\TestListCheckBox\obj\Debug\TestListCheckBox.pdb

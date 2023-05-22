@@ -1,0 +1,10 @@
+F:\progicte 2017\TestNumUpDown\TestNumUpDown\bin\Debug\TestNumUpDown.exe.config
+F:\progicte 2017\TestNumUpDown\TestNumUpDown\bin\Debug\TestNumUpDown.exe
+F:\progicte 2017\TestNumUpDown\TestNumUpDown\bin\Debug\TestNumUpDown.pdb
+F:\progicte 2017\TestNumUpDown\TestNumUpDown\obj\Debug\TestNumUpDown.csprojAssemblyReference.cache
+F:\progicte 2017\TestNumUpDown\TestNumUpDown\obj\Debug\TestNumUpDown.Form1.resources
+F:\progicte 2017\TestNumUpDown\TestNumUpDown\obj\Debug\TestNumUpDown.Properties.Resources.resources
+F:\progicte 2017\TestNumUpDown\TestNumUpDown\obj\Debug\TestNumUpDown.csproj.GenerateResource.cache
+F:\progicte 2017\TestNumUpDown\TestNumUpDown\obj\Debug\TestNumUpDown.csproj.CoreCompileInputs.cache
+F:\progicte 2017\TestNumUpDown\TestNumUpDown\obj\Debug\TestNumUpDown.exe
+F:\progicte 2017\TestNumUpDown\TestNumUpDown\obj\Debug\TestNumUpDown.pdb

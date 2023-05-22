@@ -1,0 +1,10 @@
+F:\progicte 2017\TestTooltip\TestTooltip\bin\Debug\TestTooltip.exe.config
+F:\progicte 2017\TestTooltip\TestTooltip\bin\Debug\TestTooltip.exe
+F:\progicte 2017\TestTooltip\TestTooltip\bin\Debug\TestTooltip.pdb
+F:\progicte 2017\TestTooltip\TestTooltip\obj\Debug\TestTooltip.csprojAssemblyReference.cache
+F:\progicte 2017\TestTooltip\TestTooltip\obj\Debug\TestTooltip.Form1.resources
+F:\progicte 2017\TestTooltip\TestTooltip\obj\Debug\TestTooltip.Properties.Resources.resources
+F:\progicte 2017\TestTooltip\TestTooltip\obj\Debug\TestTooltip.csproj.GenerateResource.cache
+F:\progicte 2017\TestTooltip\TestTooltip\obj\Debug\TestTooltip.csproj.CoreCompileInputs.cache
+F:\progicte 2017\TestTooltip\TestTooltip\obj\Debug\TestTooltip.exe
+F:\progicte 2017\TestTooltip\TestTooltip\obj\Debug\TestTooltip.pdb

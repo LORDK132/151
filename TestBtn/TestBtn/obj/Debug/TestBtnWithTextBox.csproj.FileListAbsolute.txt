@@ -1,0 +1,20 @@
+C:\Users\YAS\source\repos\TestBtn\TestBtn\bin\Debug\TestBtn.exe.config
+C:\Users\YAS\source\repos\TestBtn\TestBtn\bin\Debug\TestBtn.exe
+C:\Users\YAS\source\repos\TestBtn\TestBtn\bin\Debug\TestBtn.pdb
+C:\Users\YAS\source\repos\TestBtn\TestBtn\obj\Debug\TestBtnWithTextBox.csprojAssemblyReference.cache
+C:\Users\YAS\source\repos\TestBtn\TestBtn\obj\Debug\TestBtn.Form1.resources
+C:\Users\YAS\source\repos\TestBtn\TestBtn\obj\Debug\TestBtn.Properties.Resources.resources
+C:\Users\YAS\source\repos\TestBtn\TestBtn\obj\Debug\TestBtnWithTextBox.csproj.GenerateResource.cache
+C:\Users\YAS\source\repos\TestBtn\TestBtn\obj\Debug\TestBtnWithTextBox.csproj.CoreCompileInputs.cache
+C:\Users\YAS\source\repos\TestBtn\TestBtn\obj\Debug\TestBtn.exe
+C:\Users\YAS\source\repos\TestBtn\TestBtn\obj\Debug\TestBtn.pdb
+F:\progicte 2017\TestBtn\TestBtn\bin\Debug\TestBtn.exe.config
+F:\progicte 2017\TestBtn\TestBtn\bin\Debug\TestBtn.exe
+F:\progicte 2017\TestBtn\TestBtn\bin\Debug\TestBtn.pdb
+F:\progicte 2017\TestBtn\TestBtn\obj\Debug\TestBtnWithTextBox.csprojAssemblyReference.cache
+F:\progicte 2017\TestBtn\TestBtn\obj\Debug\TestBtn.Form1.resources
+F:\progicte 2017\TestBtn\TestBtn\obj\Debug\TestBtn.Properties.Resources.resources
+F:\progicte 2017\TestBtn\TestBtn\obj\Debug\TestBtnWithTextBox.csproj.GenerateResource.cache
+F:\progicte 2017\TestBtn\TestBtn\obj\Debug\TestBtnWithTextBox.csproj.CoreCompileInputs.cache
+F:\progicte 2017\TestBtn\TestBtn\obj\Debug\TestBtn.exe
+F:\progicte 2017\TestBtn\TestBtn\obj\Debug\TestBtn.pdb
